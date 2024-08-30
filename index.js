@@ -12,7 +12,7 @@ app.use(cors())
 let persons = [
     { 
       "id": "1",
-      "name": "Arto Hellas", 
+      "name": "Arty Hellas", 
       "number": "040-123456"
     },
     { 
